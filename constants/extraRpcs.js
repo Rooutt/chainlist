@@ -437,6 +437,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.omnia,
       },
       {
+        url: "https://mainnet.gateway.tenderly.co/DFJYUp8eZAb8bEK2UAHTO",
+        tracking: "limited",
+        trackingDetails: privacyStatement.ankr,
+      },
+      {
         url: "https://rpc.ankr.com/fantom_testnet",
         tracking: "limited",
         trackingDetails: privacyStatement.ankr,
